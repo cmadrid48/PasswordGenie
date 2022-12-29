@@ -50,10 +50,6 @@ header {
   height: 2px;
 }
 
-.DNS {
-  flex: content;
-  justify-content: right;
-}
 .card-body {
   min-height: 100px;
 }
