@@ -12,7 +12,11 @@ git clone https://github.com/cmadrid48/PasswordGenie.git
 
 ## Example
 
+([Deployed Site](https://cmadrid48.github.io/PasswordGenie/))
+
 (![passwordGenie](Assets/AC/03-javascript-homework-demo.png))
+
+
 
 
 ## Contributing
