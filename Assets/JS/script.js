@@ -47,7 +47,7 @@ function userPrompt(){
     alert("Character length needs to be, 8 - 128 . Please try again.");
     return false;
   }
-
+// password conditionals
   if(confirm('would you like lowercase letters in your password?')) {
     Choice = Choice.concat(lowerCase);
   }
